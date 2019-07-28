@@ -1,2 +1,1 @@
-# zenswap-mvp-ui
-Zenswap Network minimum viable product user interface demo
+This repository contains zenswap network minimum viable product.
